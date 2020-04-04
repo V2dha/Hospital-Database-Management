@@ -6,8 +6,7 @@ o New Registration
 Enter Patient’s name and other details to book an appointment 
  
 o View Registration 
-Enter Patient’s name to view the required appointment 
+Enter Patient’s name to view the required appointment
 
 
-Program Preview
 
