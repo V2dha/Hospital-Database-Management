@@ -1,6 +1,7 @@
 <h1> Hospital Database Management </h1>
-
- Hospital Management system is a Tkinter based (Python module) application that can be used by any library to :- 
+ 
+ Hospital Database Management system is built with python using Tkinter as the GUI framework and SQL for the backend database management. 
+ It can be used to :-
  
  o New Registration 
  Enter Patient’s name and other details to book an appointment 
